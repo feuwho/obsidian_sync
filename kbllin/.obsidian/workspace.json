@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "MCU/stm/STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "STM32 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md"
+                "file": "MCU/stm/STM32.md"
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "STM32 的大纲"
             }
           },
           {
@@ -174,7 +174,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a0704581e53702f",
+  "active": "b82328003d8eeb2a",
   "lastOpenFiles": [
     "未命名.md",
     "MCU/stm/STM32.md",
