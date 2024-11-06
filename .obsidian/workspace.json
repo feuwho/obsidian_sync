@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "kbllin/MCU/stm/STM32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "STM32"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "kbllin/MCU/stm/STM32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "STM32 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "kbllin/MCU/stm/STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "STM32 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "kbllin/MCU/stm/STM32.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "STM32 的大纲"
             }
           },
           {
@@ -173,6 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66f02ee227acfdcd",
-  "lastOpenFiles": []
+  "active": "6a6104e95b695ec3",
+  "lastOpenFiles": [
+    "kbllin/Class/计算机网络.md",
+    "README.md"
+  ]
 }
