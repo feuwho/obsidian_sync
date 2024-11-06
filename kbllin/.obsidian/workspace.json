@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU/stm/STM32.md",
+                "file": "Class/计算机网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STM32"
+              "title": "计算机网络"
             }
           }
         ]
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +174,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b82328003d8eeb2a",
+  "active": "8a0704581e53702f",
   "lastOpenFiles": [
-    "未命名.md",
     "MCU/stm/STM32.md",
+    "未命名.md",
     "MCU/stm",
     "未命名 3",
     "未命名/欢迎.md",
